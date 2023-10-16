@@ -1,4 +1,4 @@
-#Function to get complementary DNA sequence from string 
+#Function to return complementary DNA sequence from string 
 
 
 getcomp <- function(x) {
